@@ -2,7 +2,8 @@
 
 ## Requirements
 Lib used: pygame & numpy
-```pip install pygame
+```
+   pip install pygame
    pip install numpy
 ```
 

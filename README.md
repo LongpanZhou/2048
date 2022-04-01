@@ -10,7 +10,7 @@ Lib used: pygame & numpy
 
 ## Key Binds
 Move: Up/Down/Left/Right  <br />
-  ⬆️
+  ⬆️<br />
 ⬅️⬇️➡️<br />
 Pause: Escape Key
 
